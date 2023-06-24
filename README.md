@@ -50,13 +50,13 @@ streamlit run streamlit-app.py
 [TODO - show example screenshot]
 
 
-# Next Steps
+## Next Steps
 
 [TODO - Update to support multiple PDFs]
 
 [TODO - add customization of look & feel]
 
 
-# Background
+## Background
 
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., … Kiela, D. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. In H. Larochelle, M. Ranzato, R. Hadsell, M. F. Balcan, & H. Lin (Eds.), **Advances in Neural Information Processing Systems** (Vol. 33, pp. 9459–9474). Retrieved from https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf
